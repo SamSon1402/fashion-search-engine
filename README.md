@@ -1,5 +1,8 @@
 # Fashion Search Engine 🔍👗
 
+![202410111238](https://github.com/user-attachments/assets/cf64e89a-a54b-48cc-a7aa-fcd9a614dc50)
+
+
 A Streamlit-based web application that uses deep learning to find similar fashion items based on uploaded images. The app leverages pre-trained models (VGG16, ResNet50, and Xception) to extract features from images and perform similarity searches across a fashion product database.
 
 ## 🌟 Features
